@@ -1,14 +1,14 @@
 body{
-    width:1440px;
+    width:100%;
     min-height:100vh;
-    background-color:purple;
+    background-color:hsl(30, 54%, 90%);
     margin:0%;
     display:flex;
     justify-content: center;
     align-items:center;
 }
 .main{
-    width:300px;
+    width:32%;
     padding:10px;
     height:auto;
     background-color:hsl(0, 0%, 100%);
@@ -84,13 +84,12 @@ li::marker{
 
 }
 td {
-  font-size: 10px;
+  font-size: 14px;
   font-weight:bolder;
-
   padding: 12px 16px;
   border-bottom: 1px solid #e5e7eb;
 }
 .apl{
-    color: rgb(224, 147, 52);
+    color: hsl(14, 45%, 36%);
     
 }
